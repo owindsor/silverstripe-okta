@@ -24,7 +24,7 @@
         "silverstripe/cms": "~3.4",
         "silverstripe/queuedjobs": "^2.9",
         "guzzlehttp/guzzle": "^6.2",
-        "onelogin/php-saml": "sign-logout-request"
+        "onelogin/php-saml": "dev-feature/sign-logout-request"
     },
     "require-dev": {
         "phpunit/PHPUnit": "~3.7"
